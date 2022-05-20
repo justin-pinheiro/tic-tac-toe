@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Simple tic-tac-toe multiplayer game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-pinheiro/tic-tac-toe.git"
+  },
+  "author": "Justin Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-pinheiro/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/justin-pinheiro/tic-tac-toe#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
